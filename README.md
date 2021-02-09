@@ -10,7 +10,7 @@ Showcase of training a neural network with two dense hidden layers using keras.
 
 # Neural Network
 
-![Image of a kitten](docs/nn.png)
+![Image of a kitten](docs/nn2.png)
 
 # Example output
 
